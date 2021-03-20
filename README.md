@@ -180,7 +180,7 @@ Crack passwords and create wordlists.
 
 | Tool        | Description    |
 | ----------- |----------------|
-| [Probable Worlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
+| [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability originally created for password generation and testing. |
 
 #### :globe_with_meridians: Wireless Testing
 
@@ -198,11 +198,12 @@ Used for intrusion detection and wifi attacks.
 
 Acesss systems and data with service-oriented exploits.
 
-| Tool        | Language           | Support  | Description    |
-| ----------- |-------------------------|----------|----------------|
-| [SQLmap](https://github.com/sqlmapproject/sqlmap)      | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool. |
-| [XSStrike](https://github.com/UltimateHackers/XSStrike)      | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite. |
-| [Commix](https://github.com/commixproject/commix)      | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| Tool                                                    | Language   | Support               | Description                                                  |
+| ------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------ |
+| [SQLmap](https://github.com/sqlmapproject/sqlmap)       | **Python** | `Linux/Windows/macOS` | Automatic SQL injection and database takeover tool.          |
+| [XSStrike](https://github.com/UltimateHackers/XSStrike) | **Python** | `Linux/Windows/macOS` | Advanced XSS detection and exploitation suite.               |
+| [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
+| [Nuclei](https://github.com/projectdiscovery/nuclei)    | **Go**     | `Linux/Windows/macOS` | Fast and customisable vulnerability scanner based on simple YAML based DSL. |
 
 #### :busts_in_silhouette: Sniffing & Spoofing
 
@@ -247,7 +248,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Wifiphisher](https://github.com/wifiphisher/wifiphisher)      | **Python** | `Linux` | The Rogue Access Point Framework. |
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
-| [Burp Suite](https://portswigger.net/burp)      | **C++** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. We believe in giving our users a competitive advantage through superior research. **This tool is not free and open source** |
+| [Burp Suite](https://portswigger.net/burp)      | **Java** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. We believe in giving our users a competitive advantage through superior research. **This tool is not free and open source** |
 
 ([Table of Contents](#table-of-contents))
 
@@ -297,15 +298,17 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Challenges
 
-- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. some are beginner friendly, some aren't.
-- [Itsecgames](http://www.itsecgames.com/) - buggy web app
-- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
-- [Hackthissite](https://www.hackthissite.org/)
-- [Hackthis](https://www.hackthis.co.uk/)
-- [Root-me](https://www.root-me.org/)
-- [HackTheBox](https://www.hackthebox.eu/)
-- [Overthewire](http://overthewire.org/wargames/)
-- [Ctftime](https://ctftime.org/)
+- [Vulnhub](https://www.vulnhub.com/) - Has a lot of VMs to play with. Some are beginner friendly, some aren't.
+- [Itsecgames](http://www.itsecgames.com/) - bWAPP or buggy web app is a deliberately insecure web application.
+- [Dvwa](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application is another deliberately insecure web application to practice your skills on.
+- [Hackthissite](https://www.hackthissite.org/) - A site which provides challenges, CTFs, and more to improve your hacking skills.
+- [Defend the Web](https://defendtheweb.net/) - Defend the Web is an interactive security platform where you can learn and challenge your skills.
+- [Root-me](https://www.root-me.org/) - Another website which hosts challenges to test your hacking skills.
+- [HackTheBox](https://www.hackthebox.eu/) - An online platform to test and advance your skills in penetration testing and cyber security.
+- [Overthewire](http://overthewire.org/wargames/) - Learn and practice security concepts in the form of fun-filled games.
+- [Ctftime](https://ctftime.org/) - The de facto website for everything CTF related. 
+- [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs.
+- [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
 ([Table of Contents](#table-of-contents))
 
